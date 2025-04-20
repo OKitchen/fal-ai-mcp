@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 authors = [
-    { name = "kiki", email = "kiki@virtuoasis.app" }
+    { name = "VirtuOasis", email = "kitchenbyomakase@gmail.com" }
 ]
 requires-python = ">=3.13"
 dependencies = [
