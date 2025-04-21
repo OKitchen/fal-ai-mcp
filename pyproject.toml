@@ -1,5 +1,5 @@
 [project]
-name = "pypi-mcp"
+name = "fal-ai-mcp"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
